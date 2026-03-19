@@ -1,18 +1,18 @@
-# 🏏 Live Cricket Score App
+# Live Cricket Score App
 
 This is a Python + Streamlit project that shows live cricket matches using CricAPI.
 
-## 🚀 Features
+## Features
 - Live match data
 - Clean table view
 - Simple web interface
 
-## 🛠 Tech Used
+## Tech Used
 - Python
 - Streamlit
 - Pandas
 - API
 
-## ▶️ Run locally
+## Run locally
 ```bash
 python -m streamlit run app.py
